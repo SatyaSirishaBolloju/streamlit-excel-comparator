@@ -37,13 +37,13 @@ This tool helps automate Excel-based analysis by comparing inventory rows with r
    cd streamlit-excel-comparator
    ```
 2. Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+    ```bash
+    pip install -r requirements.txt
+    ```
 3. Run the Streamlit app:
-  ```bash
-  streamlit run streamlit_app.py
-  ```
+    ```bash
+    streamlit run streamlit_app.py
+    ```
 
 ---
 ## 📂 Excel Format (Expected)
